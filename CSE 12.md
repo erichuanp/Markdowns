@@ -22,8 +22,7 @@
 
 | 应用领域                      | Computational Problem          | Common Algorithm                                                |
 |:-------------------------:|:------------------------------:|:---------------------------------------------------------------:|
-| DNA Analysis              | 求两个来自不同个体的DNA序列中最长的共价核苷酸序列是什么？ | *Longest common substring problem*:最长共同子串算法确定两个输入字符串中存在的最长共同子串。 |
-| DNA序列可以由ACGT组成的字符串表示四个核苷酸 |                                |                                                                 |
+| DNA Analysis              | 求两个来自不同个体的DNA序列中最长的共价核苷酸序列是什么？ | *Longest common substring problem*:最长共同子串算法确定两个输入字符串中存在的最长共同子串。DNA序列可以由ACGT组成的字符串表示四个核苷酸 |
 | Search Engines            | 求所有库存产品的排序数组，产品是否有库存，产品的价格     | *Binary search*: 元素会被排序，且可以直接访问                                 |
 | Navigation                | 求用户从当前位置步行到目的地的最快路线            | *Dijkstra's shortest path*: 该算法确定了从起始顶点到图中每个顶点的最短路径             |
 
